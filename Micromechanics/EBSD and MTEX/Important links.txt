@@ -1,0 +1,18 @@
+MTEX Toolbox Documentation
+The official MTEX documentation offers extensive information on installation, functions, and examples, serving as a valuable reference for users at all levels. 
+https://mtex-toolbox.github.io/
+
+
+EBSD Tutorial on MTEX GitHub Pages
+This tutorial provides a quick guide on importing and creating basic plots with EBSD data in MTEX, ideal for beginners seeking hands-on experience. 
+https://mtex-toolbox.github.io/EBSDTutorial.html
+
+
+Introduction to MTEX - LightForm Wiki
+Hosted by the LightForm group, this resource offers an introductory guide to MTEX, including installation instructions and basic usage tips. 
+https://lightform-group.github.io/wiki/software_and_simulation/mtex-intro
+
+
+MTEX Toolbox - MATLAB & Simulink
+Provided by MathWorks, this page offers an overview of the MTEX toolbox, including its features and applications within MATLAB.
+https://se.mathworks.com/academia/courseware/mtex-toolbox.html
